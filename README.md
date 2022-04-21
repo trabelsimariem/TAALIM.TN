@@ -31,3 +31,19 @@
 ![Capture d’écran 2022-04-22 à 00 20 35](https://user-images.githubusercontent.com/61707024/164567132-b3e91f3d-b280-4e3f-a897-a473974bf89e.png)
 
 # Instructor dashboard
+![Capture d’écran 2022-04-21 à 23 31 37](https://user-images.githubusercontent.com/61707024/164567515-75b8320f-11f4-4774-badd-a8caf89729fe.png)
+![Capture d’écran 2022-04-21 à 23 31 44](https://user-images.githubusercontent.com/61707024/164567526-98a3710a-92c6-4aa4-ab3c-79d951ed5f51.png)
+![Capture d’écran 2022-04-21 à 23 32 44](https://user-images.githubusercontent.com/61707024/164567540-d722582d-b1be-4069-afe1-728a50cbaaa0.png)
+![Capture d’écran 2022-04-21 à 23 33 11](https://user-images.githubusercontent.com/61707024/164567544-8a7db28c-60cd-4c37-8ca5-669f14a5d1b1.png)
+![Capture d’écran 2022-04-21 à 23 33 29](https://user-images.githubusercontent.com/61707024/164567547-c1d53875-4903-4fb5-b9b6-54338a559967.png)
+
+![Capture d’écran 2022-04-21 à 23 42 31](https://user-images.githubusercontent.com/61707024/164567567-98bce9fc-ceaa-4e3f-80c6-307d80d22809.png)
+![Capture d’écran 2022-04-21 à 23 42 41](https://user-images.githubusercontent.com/61707024/164567573-ad1ea398-ad9f-4f06-975f-d7972be53bc8.png)
+
+![Capture d’écran 2022-04-21 à 23 43 17](https://user-images.githubusercontent.com/61707024/164567586-63eb167f-adb7-4305-92d3-feb558ea3a84.png)
+![Capture d’écran 2022-04-21 à 23 44 09](https://user-images.githubusercontent.com/61707024/164567592-0221f2dc-9b53-43fd-be0b-c6f17868c2a0.png)
+
+![Capture d’écran 2022-04-21 à 23 44 13](https://user-images.githubusercontent.com/61707024/164567595-26da18b4-8e02-4351-85dc-5bb6c4599845.png)
+![Capture d’écran 2022-04-21 à 23 53 23](https://user-images.githubusercontent.com/61707024/164567603-92868ab7-8926-4c57-a207-7bcf535bae24.png)
+
+
